@@ -23,13 +23,16 @@ It follows a structured methodology inspired by **CRISP-DM** and covers the full
 ---
 
 ## 📂 Project Structure
+
+```
 sleep-health-statistics/
 │
-├── data/                        # Raw dataset + extracted columns
-├── notebooks/                   # Jupyter notebooks (stats + ML)
-├── machine_learning/            # ML models and results
-├── requirements.txt             # Dependencies
+├── data/                   # Raw dataset + extracted columns
+├── notebooks/              # Jupyter notebooks (stats + ML)
+├── machine_learning/       # ML models and results
+├── requirements.txt        # Dependencies
 └── README.md
+```
 ---
 
 ##  Part 1 — Statistical Analysis
